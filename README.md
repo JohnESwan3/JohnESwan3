@@ -17,7 +17,7 @@ I am a self-taught Web Developer from Weiser, ID. I lover React and Next.js, and
 [<img src="https://johneswan3.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4cl1ntme%2Fproduction%2F78b7df6125db964f2230a655e7da7307f14c2cde-1600x900.webp&w=1920&q=50" width="256" alt='Stockpile Gaming' />](https://github.com/JohnESwan3/stockpile_gaming)
 [<img src="https://johneswan3.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4cl1ntme%2Fproduction%2F660413b509156b744d203210d7d969cf50999258-1600x900.webp&w=1920&q=50" width="256" alt='Uber React Native' />](https://github.com/JohnESwan3/uber_react_native)
 
-
+## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnESwan3)](https://github.com/anuraghazra/github-readme-stats)
 
