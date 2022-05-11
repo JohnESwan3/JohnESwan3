@@ -5,7 +5,7 @@
 
 I am a self-taught Web Developer from Weiser, ID. I lover React and Next.js, and I am always learning something new.
 
-## Skills
+## Key Skills
 * :atom: React
 * ⬛ Next.js
 * 💻 HTML, CSS, JS, TS
