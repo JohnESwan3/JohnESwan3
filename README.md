@@ -1,12 +1,17 @@
-### I am John Swan
-#### Front End Web Developer
+# I am John Swan
+Front End Web Developer
 ![Front End Web Developer](https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80)
 
 I am a self-taught Web Developer from Weiser, ID. I lover React and Next.js, and I am always learning something new.
 
-Skills: JavaScript / TypeScript / React / Next.js
+## Skills
+* :atom: React
+* ⬛ Next.js
+* 💻 HTML, CSS, JS, TS
+* 
 
-- 🔭 I’m currently working on [Uber React Native](https://github.com/JohnESwan3/uber_react_native) 
+
+- I’m currently working on [Uber React Native](https://github.com/JohnESwan3/uber_react_native) 
 - 🌱 I’m currently learning React Native | JavaScript | Firebase 
 
 
