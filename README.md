@@ -9,7 +9,7 @@ I am a self-taught Web Developer from Weiser, ID. I lover React and Next.js, and
 * :atom: React
 * ⬛ Next.js
 * 💻 HTML, CSS, JS, TS
-* 
+* 🐦 Tailwind CSS
 
 
 - I’m currently working on [Uber React Native](https://github.com/JohnESwan3/uber_react_native) 
