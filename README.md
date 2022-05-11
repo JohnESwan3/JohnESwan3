@@ -12,7 +12,7 @@ I am a self-taught Web Developer from Weiser, ID. I lover React and Next.js, and
 * 🐦 Tailwind CSS
 
 ## Examples of Work
-<img src="https://johneswan3.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4cl1ntme%2Fproduction%2F0d4c9a0cbf9fc0589419becc000f05e7d92ba1ba-1920x1080.png&w=1920&q=50" width="256" />
+[<img src="https://johneswan3.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4cl1ntme%2Fproduction%2F0d4c9a0cbf9fc0589419becc000f05e7d92ba1ba-1920x1080.png&w=1920&q=50" width="256" />](https://github.com/JohnESwan3/portfolio-april-2022)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JohnESwan3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jes3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/John3Swan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.johneswan3.com)  
