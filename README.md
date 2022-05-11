@@ -18,7 +18,6 @@ I am a self-taught Web Developer from Weiser, ID. I lover React and Next.js, and
 [<img src="https://johneswan3.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4cl1ntme%2Fproduction%2F660413b509156b744d203210d7d969cf50999258-1600x900.webp&w=1920&q=50" width="256" alt='Uber React Native' />](https://github.com/JohnESwan3/uber_react_native)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JohnESwan3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jes3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/John3Swan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.johneswan3.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnESwan3)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,3 +25,6 @@ I am a self-taught Web Developer from Weiser, ID. I lover React and Next.js, and
 
 ![GitHub metrics](https://metrics.lecoq.io/JohnESwan3)  
 
+
+## Social Media
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JohnESwan3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jes3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/John3Swan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.johneswan3.com)  
