@@ -19,9 +19,9 @@ I am a self-taught Web Developer from Weiser, ID. I lover React and Next.js, and
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnESwan3)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnESwan3&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnESwan3&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnESwan3)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub metrics](https://metrics.lecoq.io/JohnESwan3)  
 
