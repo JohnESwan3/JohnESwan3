@@ -10,6 +10,7 @@ I am a self-taught Web Developer from Weiser, ID. I lover React and Next.js, and
 * ⬛ Next.js
 * 💻 HTML, CSS, JS, TS
 * 🐦 Tailwind CSS
+* 🎮 C# + Unity
 
 ## Examples of Work
 [<img src="https://johneswan3.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4cl1ntme%2Fproduction%2F0d4c9a0cbf9fc0589419becc000f05e7d92ba1ba-1920x1080.png&w=1920&q=50" width="256" alt='portfolio' />](https://github.com/JohnESwan3/portfolio-april-2022)
