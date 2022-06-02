@@ -3,7 +3,7 @@
 
 # John Swan
 
-I am a self-taught Web Developer from Weiser, ID. I lover React and Next.js, and I am always learning something new.
+I am a self-taught Web Developer and Indie Game Developer from Idaho.
 
 ## Key Skills
 * :atom: React
