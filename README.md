@@ -14,6 +14,7 @@ I am a self-taught Web Developer and Indie Game Developer from Idaho.
 * 🖥️ ASP.Net
 * 💾 SQL / SQL Server
 * ☁️ Azure
+* 🐧 Linux
 * 🎮 Unity
 
 ## Examples of Work
