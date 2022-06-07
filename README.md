@@ -10,6 +10,8 @@ I am a self-taught Web Developer and Indie Game Developer from Idaho.
 * ⬛ Next.js
 * 💻 HTML, CSS, JS, TS
 * 🐦 Tailwind CSS
+
+## Developing Skills
 * 🌐 C# / .Net
 * 🖥️ ASP.Net
 * 💾 SQL / SQL Server
