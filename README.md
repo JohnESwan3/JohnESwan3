@@ -9,7 +9,7 @@ Self-Taught Indie Game Dev and hobby web dev.
 * :atom: React
 * ⬛ Next.js
 * 🐦 Tailwind CSS
-* * 🐧 Linux
+* 🐧 Linux
 * 🎮 Unreal
 
 
