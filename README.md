@@ -1,6 +1,6 @@
 # John Swan
 Hobby Front End developer exploring game development and Rust (but not Rust Game Dev)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnESwan3&theme=tokyonight" alt="mystreak"/>
+
 
 ## Current Projects
 - Hammer Down Arsenal
@@ -18,3 +18,4 @@ Hobby Front End developer exploring game development and Rust (but not Rust Game
   - Mobile / Desktop FF Tactics type game
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnESwan3&theme=tokyonight" alt="mystreak"/>
