@@ -16,6 +16,3 @@ Hobby Front End developer exploring game development and Rust (but not Rust Game
   - Blog website + YouTube channel for web and game dev
 - Ghosts We Follow
   - Mobile / Desktop FF Tactics type game
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnESwan3&theme=tokyonight" alt="mystreak"/>
