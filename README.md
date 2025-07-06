@@ -16,4 +16,4 @@ Hobby Front End developer exploring game development and Rust (but not Rust Game
 - Ghosts We Follow
   - Mobile / Desktop FF Tactics type game
 
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+<img src="https://widgetbite.com/stats/JohnESwan3" alt="watching_count" />
